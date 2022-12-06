@@ -1,0 +1,23 @@
+#titulo {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+
+.contato {
+    color: white;
+    margin: 20px;
+    padding: 50px;
+    max-width: 100px;
+}
+
+.sobre {
+    color: red;
+}
+
+* {
+    background-color: black ;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
